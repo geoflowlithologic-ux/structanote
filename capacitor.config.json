@@ -1,0 +1,15 @@
+{
+  "appId": "br.com.litobrasil.structanote",
+  "appName": "StructaNote",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#0c0a09",
+    "allowMixedContent": false
+  },
+  "ios": {
+    "backgroundColor": "#0c0a09",
+    "contentInset": "never",
+    "scheme": "capacitor",
+    "limitsNavigationsToAppBoundDomains": false
+  }
+}
